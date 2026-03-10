@@ -73,7 +73,7 @@ open_to: Senior Automation / SDET roles in Pune (Hybrid)
  
 ---
  
-### 🟢 [API Testing Suite — REST Assured](https://github.com/[patilrohan-qa]/api-testing-restassured)
+### 🟢 [API Testing Suite — REST Assured](https://github.com/rohanp1493/RestAssured-Framework.git)
 > Comprehensive API test suite using REST Assured + TestNG
  
 - ✅ GET, POST, PUT, DELETE test coverage
