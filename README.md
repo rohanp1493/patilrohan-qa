@@ -56,7 +56,7 @@ open_to: Senior Automation / SDET roles in Pune (Hybrid)
  
 ## 🚀 Featured Projects
  
-### 🔷 [Selenium Java Automation Framework](https://github.com/[patilrohan-qa]/selenium-java-framework)
+### 🔷 [Selenium Java Automation Framework](https://github.com/[patilrohan-qa]/SauceDemo-Framework)
 > Enterprise-grade test automation framework built from scratch
  
 - ✅ Page Object Model (POM) with reusable BasePage
