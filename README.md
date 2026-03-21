@@ -103,16 +103,16 @@ open_to: Senior Automation / SDET roles in Pune (Hybrid)
  
 ---
  
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
  
 <div align="center">
  
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=patilrohan-qa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanp1493&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patilrohan-qa&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanp1493&layout=compact&theme=tokyonight&hide_border=true)
  
 </div>
- 
+ -->
 ---
  
 ## 🏆 Certifications
