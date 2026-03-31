@@ -80,7 +80,6 @@ open_to: Senior Automation / SDET roles in Pune (Hybrid)
 - ✅ JSONPath response validation
 - ✅ Response time assertions (<2000ms)
 - ✅ Integrated with TestNG suite runner
-- ✅ Postman collection included
  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/REST_Assured-6DB33F?style=flat)
